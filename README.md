@@ -35,7 +35,7 @@
 <div align="center">
   <h1>Tech Skills :computer: </h1>
 <div margin="10px">
-  <img src="https://icongr.am/devicon/html5-original.svg?size=46&color=563d7c" title="HTML" margin="5px"><span>"    "</span>  <img src="https://icongr.am/devicon/css3-original.svg?size=46&color=563d7c" title="CSS"> <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=46&color=563d7c" title="BootStrap"> <img src="https://icongr.am/devicon/javascript-original.svg?size=46&color=563d7c" title="JavaScript"> <img src="https://icongr.am/devicon/react-original.svg?size=46&color=563d7c" title="React">
+  <img src="https://icongr.am/devicon/html5-original.svg?size=46&color=563d7c" title="HTML" margin="5px"><span>   </span>  <img src="https://icongr.am/devicon/css3-original.svg?size=46&color=563d7c" title="CSS"> <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=46&color=563d7c" title="BootStrap"> <img src="https://icongr.am/devicon/javascript-original.svg?size=46&color=563d7c" title="JavaScript"> <img src="https://icongr.am/devicon/react-original.svg?size=46&color=563d7c" title="React">
  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" title="Figma" height="46" width="46">
  </div>
  <div>
