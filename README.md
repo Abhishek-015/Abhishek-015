@@ -34,7 +34,7 @@
 
 <div align="center">
   <h1>Tech Skills :computer: </h1>
-<div display="flex" justify-content="space-between>
+<div display="flex" justify-content="space-between">
   <img src="https://icongr.am/devicon/html5-original.svg?size=46&color=563d7c" title="HTML">  <img src="https://icongr.am/devicon/css3-original.svg?size=46&color=563d7c" title="CSS"> <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=46&color=563d7c" title="BootStrap"> <img src="https://icongr.am/devicon/javascript-original.svg?size=46&color=563d7c" title="JavaScript"> <img src="https://icongr.am/devicon/react-original.svg?size=46&color=563d7c" title="React">
  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" title="Figma" height="46" width="46">
  </div>
