@@ -11,11 +11,11 @@
 
 
 - 💎 Currently I'm working on Front End Development.
-- ⚡ My Portfolio -
+- ⚡ 
 - 🌱 Currently learning JavaScript, ReactJS & ReduxJS.
 - 🎯 Preparing myself to work on Full Stack Development.
 - 💬 Open to learn about Competitive Programming.
-- 📚 .
+- 📚 Ask me about react, JS, Data Structures and Algorithms, Nodejs.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-015&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-015" /> </p>
 
@@ -35,7 +35,7 @@
 <div align="center">
   <h1>Tech Skills :computer: </h1>
 <div margin="10px">
-  <img src="https://icongr.am/devicon/html5-original.svg?size=46&color=563d7c" title="HTML">  <img src="https://icongr.am/devicon/css3-original.svg?size=46&color=563d7c" title="CSS"> <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=46&color=563d7c" title="BootStrap"> <img src="https://icongr.am/devicon/javascript-original.svg?size=46&color=563d7c" title="JavaScript"> <img src="https://icongr.am/devicon/react-original.svg?size=46&color=563d7c" title="React">
+  <img src="https://icongr.am/devicon/html5-original.svg?size=46&color=563d7c" title="HTML" margin="5px">  <img src="https://icongr.am/devicon/css3-original.svg?size=46&color=563d7c" title="CSS"> <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=46&color=563d7c" title="BootStrap"> <img src="https://icongr.am/devicon/javascript-original.svg?size=46&color=563d7c" title="JavaScript"> <img src="https://icongr.am/devicon/react-original.svg?size=46&color=563d7c" title="React">
  <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" title="Figma" height="46" width="46">
  </div>
  <div>
