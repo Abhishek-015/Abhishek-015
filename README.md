@@ -15,7 +15,7 @@
 - 🌱 Currently learning JavaScript, ReactJS & ReduxJS.
 - 🎯 Preparing myself to work on Full Stack Development.
 - 💬 Open to learn about Competitive Programming.
-- 📚 Currently solving some tricky algorithmns.
+- 📚 .
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-015&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-015" /> </p>
 
