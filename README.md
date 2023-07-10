@@ -10,12 +10,12 @@
 
 
 
-- 💎 Currently I'm working on Front End Development.
+- 💎 Currently I'm working as an Full stack web developer.
 - ⚡ My portfolio - https://portfolio-rv.netlify.app/
-- 🌱 Currently learning JavaScript, ReactJS & ReduxJS.
+- 🌱 Currently learning JavaScript, ReactJS, ReduxJS, NodeJs, ExpressJs and MongoDB.
 - 🎯 Preparing myself to work on Full Stack Development.
-- 💬 Open to learn about Competitive Programming.
-- 📚 Ask me about react, JS, Data Structures and Algorithms, Nodejs.
+- 💬 Following Agile Methodology (JIRA) principals.
+- 📚 Ask me about React, Redux, JS, Nodejs, ExpressJS and MongoDB .
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-015&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-015" /> </p>
 
